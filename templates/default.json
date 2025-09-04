@@ -1,0 +1,42 @@
+[
+   { "piece": { "rook": "white" }, "pos": { "rank": 0, "file": 0 }, "data": { "moved": false } },
+   { "piece": { "knight": "white" }, "pos": { "rank": 0, "file": 1 }, "data": {} },
+   { "piece": { "bishop": "white" }, "pos": { "rank": 0, "file": 2 }, "data": {} },
+   { "piece": { "queen": "white" }, "pos": { "rank": 0, "file": 3 }, "data": {} },
+   { "piece": { "king": "white" }, "pos": { "rank": 0, "file": 4 }, "data": { "moved": false } },
+   { "piece": { "bishop": "white" }, "pos": { "rank": 0, "file": 5 }, "data": {} },
+   { "piece": { "knight": "white" }, "pos": { "rank": 0, "file": 6 }, "data": {} },
+   { "piece": { "rook": "white" }, "pos": { "rank": 0, "file": 7 }, "data": { "moved": false } },
+
+   { "piece": { "pawn": "white" }, "pos": { "rank": 1, "file": 0 }, "data": { "moved": false } },
+   { "piece": { "pawn": "white" }, "pos": { "rank": 1, "file": 1 }, "data": { "moved": false } },
+   { "piece": { "pawn": "white" }, "pos": { "rank": 1, "file": 2 }, "data": { "moved": false } },
+   { "piece": { "pawn": "white" }, "pos": { "rank": 1, "file": 3 }, "data": { "moved": false } },
+   { "piece": { "pawn": "white" }, "pos": { "rank": 1, "file": 4 }, "data": { "moved": false } },
+   { "piece": { "pawn": "white" }, "pos": { "rank": 1, "file": 5 }, "data": { "moved": false } },
+   { "piece": { "pawn": "white" }, "pos": { "rank": 1, "file": 6 }, "data": { "moved": false } },
+   { "piece": { "pawn": "white" }, "pos": { "rank": 1, "file": 7 }, "data": { "moved": false } },
+
+   null, null, null, null, null, null, null, null,
+   null, null, null, null, null, null, null, null,
+   null, null, null, null, null, null, null, null,
+   null, null, null, null, null, null, null, null,
+
+   { "piece": { "pawn": "black" }, "pos": { "rank": 6, "file": 0 }, "data": { "moved": false } },
+   { "piece": { "pawn": "black" }, "pos": { "rank": 6, "file": 1 }, "data": { "moved": false } },
+   { "piece": { "pawn": "black" }, "pos": { "rank": 6, "file": 2 }, "data": { "moved": false } },
+   { "piece": { "pawn": "black" }, "pos": { "rank": 6, "file": 3 }, "data": { "moved": false } },
+   { "piece": { "pawn": "black" }, "pos": { "rank": 6, "file": 4 }, "data": { "moved": false } },
+   { "piece": { "pawn": "black" }, "pos": { "rank": 6, "file": 5 }, "data": { "moved": false } },
+   { "piece": { "pawn": "black" }, "pos": { "rank": 6, "file": 6 }, "data": { "moved": false } },
+   { "piece": { "pawn": "black" }, "pos": { "rank": 6, "file": 7 }, "data": { "moved": false } },
+
+   { "piece": { "rook": "black" }, "pos": { "rank": 7, "file": 0 }, "data": { "moved": false } },
+   { "piece": { "knight": "black" }, "pos": { "rank": 7, "file": 1 }, "data": {} },
+   { "piece": { "bishop": "black" }, "pos": { "rank": 7, "file": 2 }, "data": {} },
+   { "piece": { "queen": "black" }, "pos": { "rank": 7, "file": 3 }, "data": {} },
+   { "piece": { "king": "black" }, "pos": { "rank": 7, "file": 4 }, "data": { "moved": false } },
+   { "piece": { "bishop": "black" }, "pos": { "rank": 7, "file": 5 }, "data": {} },
+   { "piece": { "knight": "black" }, "pos": { "rank": 7, "file": 6 }, "data": {} },
+   { "piece": { "rook": "black" }, "pos": { "rank": 7, "file": 7 }, "data": { "moved": false } }
+]
